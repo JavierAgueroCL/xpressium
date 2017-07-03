@@ -25,7 +25,7 @@
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="borrar-cache">
     <div style="width: 80%; margin: 0 auto; padding: 0px;">
-      <h3><span class="label label-default">Guia</span> Borrar el Caché del navegador</h3>
+      <h3><span class="label label-default">Guía</span> Borrar el Caché del navegador</h3>
       <p>El caché del navegador es un lugar de almacenamiento temporal que se encuentra en la computadora y que guarda archivos que han sido descargados por el navegador para mostrar sitios con el fin de hacer la carga del sito más rápida.</p>
       <hr width="100%">
       <table>
@@ -102,7 +102,7 @@
     </div>
     <div role="tabpanel" class="tab-pane" id="configurar-outlook">
     <div style="width: 80%; margin: 0 auto; padding: 0px;">
-      <h3><span class="label label-default">Guia</span> Configurar Outlook</h3>
+      <h3><span class="label label-default">Guía</span> Configurar Outlook</h3>
 
     </div>
 
