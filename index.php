@@ -39,7 +39,7 @@
           </td>
           <td><div class="page-header">
               <h4>Paso 1 <small>Acceder a configuración</small></h4>
-                <p>En el menú de Google Chrome, seleccion la opción de <b>Configuración</b>
+                <p>En el menú de Google Chrome, seleccione la opción de <b>Configuración</b>
             </p></div>
           </td>
         </tr>
@@ -53,7 +53,7 @@
           </td>
           <td><div class="page-header">
               <h4>Paso 2 <small>Mostrar la configuración avanzada</small></h4>
-                <p>Al final de la página de configuracion, haga click en el enlace <b>Mostrar configuración avanzada</b>
+                <p>Al final de la página de configuración, haga click en el enlace <b>Mostrar configuración avanzada</b>
             </p></div>
           </td>
         </tr>
@@ -67,7 +67,7 @@
           </td>
           <td><div class="page-header">
               <h4>Paso 3 <small>Borrar datos de navegación</small></h4>
-                <p>Casi inmediatamente, aparecerá un botón que dice <b>Borrar datos de navegación</b>, presionelo.
+                <p>Casi inmediatamente, aparecerá un botón que dice <b>Borrar datos de navegación</b>, presiónelo.
             </p></div>
           </td>
         </tr>
@@ -81,7 +81,7 @@
           </td>
           <td><div class="page-header">
               <h4>Paso 4 <small>Selección de datos a eliminar</small></h4>
-                <p>En la ventana que aparecerá deberá seleccionar las siguientes opciones:
+                <p>En la ventana que aparecerá, deberá seleccionar las siguientes opciones:
                 </p><ul>
                   <li>Eliminar datos almacenados desde: <b>El origen de los tiempos</b></li>
                   <li><b>☑</b> Cookies y otros datos de sitios y complementos</li>
